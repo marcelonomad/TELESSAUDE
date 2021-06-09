@@ -1,0 +1,9 @@
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\bin\Debug\netcoreapp3.1\TelessaudeData.deps.json
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\bin\Debug\netcoreapp3.1\TelessaudeData.dll
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\bin\Debug\netcoreapp3.1\TelessaudeData.pdb
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\obj\Debug\netcoreapp3.1\TelessaudeData.AssemblyInfoInputs.cache
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\obj\Debug\netcoreapp3.1\TelessaudeData.AssemblyInfo.cs
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\obj\Debug\netcoreapp3.1\TelessaudeData.csproj.CoreCompileInputs.cache
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\obj\Debug\netcoreapp3.1\TelessaudeData.dll
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\obj\Debug\netcoreapp3.1\TelessaudeData.pdb
+C:\Users\Nmd\Documents\TELESSAUDE\TELESSAUDE\Telessaude\TelessaudeData\obj\Debug\netcoreapp3.1\TelessaudeData.csprojAssemblyReference.cache
